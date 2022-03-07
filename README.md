@@ -8,9 +8,13 @@
 - 개발기간 : 2021-12-13 ~ 2021-12-23
 - Front-end : (https://github.com/wecode-bootcamp-korea/27-2nd-AirPnP-frontend.git)
 - Back-end : 김은혜, 염기욱, 이주명
+  <br>
   공통  : ERD/Modeling, AWS(EC2, RDS)
+  <br>
   김은혜 : Social SignIn, 인가 Decorator, HostSignIn, Geocoder활용 하여 주소변환, Docker 배포
+  <br>
   염기욱 : API Document, HostListView, HostDetailView
+  <br>
   이주명 : Database, BookingView, AWS의 S3 및 boto3활용한 ImageHandler
 
 ## 협업 도구
